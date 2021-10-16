@@ -26,5 +26,6 @@ The analysis of the election showed that:
 - Text File Output:
 ![image_name](Election_text.png)
 
+## Conclusion
 This analyis of the elction data provided in (election_results.csv) can be scaled to any document fitting the same parameters of the csv. With some modifications it can be used to make more analyses of election data. Some modifications could be made to allow the program to scale to take in more inputs from the csv and to print more information to the output text file.
 
